@@ -1,3 +1,3 @@
-import LoginScreen from './screens/loginScreen';
+import LoginScreen from './screens/LoginScreen.tsx';
 
 export default LoginScreen;
